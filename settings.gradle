@@ -3,3 +3,6 @@ include 'hw01-gradle'
 include 'hw02-generic'
 
 
+include 'hw05-aop'
+
+
